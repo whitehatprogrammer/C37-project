@@ -1,1 +1,1 @@
-# C37-project
+# My-quizz-game
